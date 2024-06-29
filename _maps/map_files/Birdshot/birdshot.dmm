@@ -36988,19 +36988,6 @@
 	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/central)
-"mrn" = (
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/obj/effect/decal/cleanable/dirt,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/port/greater)
 "mrt" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/small/directional/north,
@@ -40627,6 +40614,7 @@
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
+/obj/structure/disposalpipe/segment,
 /turf/open/floor/iron/textured_half,
 /area/station/service/library)
 "nEx" = (
@@ -66826,7 +66814,6 @@
 /area/station/science/research)
 "vRn" = (
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment,
 /turf/closed/wall,
 /area/station/maintenance/port/greater)
 "vRt" = (
@@ -90602,7 +90589,7 @@ ina
 xYJ
 xYJ
 xsD
-srn
+mhk
 xxj
 cSb
 iSD
@@ -91115,7 +91102,7 @@ uiw
 ina
 mhk
 ozt
-mrn
+mSA
 vRn
 wku
 bKv
